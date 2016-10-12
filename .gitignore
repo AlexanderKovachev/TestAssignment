@@ -1,0 +1,6 @@
+.vs/
+packages/
+TestAssignment.Web/bin/
+TestAssignment.Web/obj/
+TestAssignment.DAL/bin/
+TestAssignment.DAL/obj/

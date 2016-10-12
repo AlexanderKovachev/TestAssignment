@@ -1,0 +1,251 @@
+[2016-08-21 12:51:38.2974] | TRACE | Someone just opened our page
+[2016-08-21 13:31:37.2601] | TRACE | Someone just opened our page
+[2016-08-21 13:31:57.9415] | DEBUG | Editing employee: Id: 1; Name: John Johnson; Age: 44; TaxPercent: 0
+[2016-08-21 13:32:21.0393] | DEBUG | Editing employee: Id: 1; Name: John Johnson; Age: 44; TaxPercent: 0
+[2016-08-21 13:32:31.5351] | DEBUG | Editing employee: Id: 1; Name: John Johnson; Age: 44; TaxPercent: 0
+[2016-08-21 13:35:11.3098] | TRACE | Someone just opened our page
+[2016-08-21 13:35:24.0267] | DEBUG | Editing employee: Id: 1; Name: John Johnson; Age: 44; TaxPercent: 12.43
+[2016-08-21 13:35:32.3760] | DEBUG | Editing employee: Id: 2; Name: Andrew Watson; Age: 23; TaxPercent: 7.89
+[2016-08-21 13:35:42.9605] | DEBUG | Editing employee: Id: 3; Name: Matt Plank; Age: 34; TaxPercent: 19.65
+[2016-08-21 13:57:06.6751] | TRACE | Someone just opened our page
+[2016-08-21 13:57:16.1214] | TRACE | Someone just opened our page
+[2016-08-21 15:19:15.8964] | TRACE | Someone just opened our page
+[2016-08-21 15:21:11.8528] | TRACE | Someone just opened our page
+[2016-08-21 15:24:26.2316] | TRACE | Someone just opened our page
+[2016-08-21 15:25:53.9125] | TRACE | Someone just opened our page
+[2016-08-21 15:26:10.5741] | DEBUG | Editing employee: Id: 1; Name: John Johnson; Age: 44; TaxPercent: 12.43
+[2016-08-21 15:46:02.1248] | TRACE | Someone just opened our Angular page
+[2016-08-21 15:46:18.6086] | TRACE | Someone just opened our page
+[2016-08-21 15:46:31.7484] | TRACE | Someone just opened our page
+[2016-08-21 15:46:39.5737] | TRACE | Someone just opened our Angular page
+[2016-08-21 15:46:47.5448] | TRACE | Someone just opened our Angular page
+[2016-08-21 15:46:51.5432] | TRACE | Someone just opened our Angular page
+[2016-08-21 15:46:53.6793] | TRACE | Someone just opened our Angular page
+[2016-08-21 15:46:56.4605] | TRACE | Someone just opened our Angular page
+[2016-08-21 15:47:00.6946] | TRACE | Someone just opened our page
+[2016-08-21 15:47:06.0629] | TRACE | Someone just opened our page
+[2016-08-21 15:47:13.1798] | TRACE | Someone just opened our Angular page
+[2016-08-21 15:47:15.9371] | TRACE | Someone just opened our Angular page
+[2016-08-21 15:47:17.9722] | TRACE | Someone just opened our Angular page
+[2016-08-21 15:47:29.6120] | TRACE | Someone just opened our Angular page
+[2016-08-21 15:47:38.3520] | TRACE | Someone just opened our page
+[2016-08-21 15:49:02.9269] | TRACE | Someone just opened our Angular page
+[2016-08-21 15:49:15.1427] | TRACE | Someone just opened our page
+[2016-08-21 15:49:23.1790] | TRACE | Someone just opened our Angular page
+[2016-08-21 16:03:20.4304] | TRACE | Someone just opened our Angular page
+[2016-08-21 16:03:42.0606] | TRACE | Someone just opened our Angular page
+[2016-08-21 16:03:52.2581] | TRACE | Someone just opened our Angular page
+[2016-08-21 16:03:54.1325] | TRACE | Someone just opened our Angular page
+[2016-08-21 16:03:56.3073] | TRACE | Someone just opened our Angular page
+[2016-08-21 16:03:58.1003] | TRACE | Someone just opened our Angular page
+[2016-08-21 16:04:01.5259] | TRACE | Someone just opened our Angular page
+[2016-08-21 16:04:06.1750] | TRACE | Someone just opened our Angular page
+[2016-08-21 16:04:18.4293] | TRACE | Someone just opened our Angular page
+[2016-08-21 16:05:20.6894] | TRACE | Someone just opened our page
+[2016-08-21 16:05:25.0017] | TRACE | Someone just opened our Angular page
+[2016-08-21 16:05:49.1849] | TRACE | Someone just opened our Angular page
+[2016-08-21 16:06:16.1724] | TRACE | Someone just opened our Angular page
+[2016-08-21 16:06:23.9862] | TRACE | Someone just opened our Angular page
+[2016-08-21 16:07:37.2648] | TRACE | Someone just opened our Angular page
+[2016-08-21 16:47:17.1693] | TRACE | Someone just opened our page
+[2016-08-21 16:47:21.1310] | TRACE | Someone just opened our Angular page
+[2016-08-21 16:55:02.4731] | TRACE | Someone just opened our page
+[2016-08-21 16:55:05.5371] | TRACE | Someone just opened our Angular page
+[2016-08-21 16:55:30.2905] | TRACE | Someone just opened our Angular page
+[2016-08-21 16:56:21.6740] | TRACE | Someone just opened our Angular page
+[2016-08-21 16:58:34.2302] | TRACE | Someone just opened our page
+[2016-08-21 16:58:38.2248] | TRACE | Someone just opened our Angular page
+[2016-08-21 17:00:16.5379] | TRACE | Someone just opened our Angular page
+[2016-08-21 17:03:35.0553] | TRACE | Someone just opened our page
+[2016-08-21 17:03:38.6656] | TRACE | Someone just opened our Angular page
+[2016-08-21 17:03:40.9257] | TRACE | Someone just opened our Angular page
+[2016-08-21 17:03:41.7784] | TRACE | Someone just opened our Angular page
+[2016-08-21 17:03:42.3147] | TRACE | Someone just opened our Angular page
+[2016-08-21 17:03:42.8899] | TRACE | Someone just opened our Angular page
+[2016-08-21 17:03:44.7472] | TRACE | Someone just opened our Angular page
+[2016-08-21 17:03:46.4408] | TRACE | Someone just opened our Angular page
+[2016-08-21 17:03:46.9808] | TRACE | Someone just opened our Angular page
+[2016-08-21 17:03:51.1942] | TRACE | Someone just opened our Angular page
+[2016-08-21 17:04:00.1850] | TRACE | Someone just opened our Angular page
+[2016-08-21 17:07:00.5355] | TRACE | Someone just opened our page
+[2016-08-21 17:07:04.3722] | TRACE | Someone just opened our page
+[2016-08-21 17:07:08.7316] | TRACE | Someone just opened our Angular page
+[2016-08-21 17:08:10.1253] | TRACE | Someone just opened our Angular page
+[2016-08-21 17:08:38.1932] | TRACE | Someone just opened our Angular page
+[2016-08-21 17:10:09.5121] | TRACE | Someone just opened our page
+[2016-08-21 17:10:21.0755] | TRACE | Someone just opened our Angular page
+[2016-08-21 17:10:27.1286] | TRACE | Someone just opened our Angular page
+[2016-08-21 17:10:28.1721] | TRACE | Someone just opened our Angular page
+[2016-08-21 17:10:29.1154] | TRACE | Someone just opened our Angular page
+[2016-08-21 17:10:29.9168] | TRACE | Someone just opened our Angular page
+[2016-08-21 17:10:32.5662] | TRACE | Someone just opened our Angular page
+[2016-08-21 17:13:40.7858] | TRACE | Someone just opened our page
+[2016-08-21 17:13:42.7712] | TRACE | Someone just opened our Angular page
+[2016-08-21 17:13:45.3192] | TRACE | Someone just opened our Angular page
+[2016-08-21 17:13:57.0577] | TRACE | Someone just opened our Angular page
+[2016-08-21 17:15:18.1134] | TRACE | Someone just opened our Angular page
+[2016-08-21 17:15:18.9240] | TRACE | Someone just opened our Angular page
+[2016-08-21 17:15:19.3081] | TRACE | Someone just opened our Angular page
+[2016-08-21 17:17:00.5667] | TRACE | Someone just opened our Angular page
+[2016-08-21 17:20:09.4868] | TRACE | Someone just opened our page
+[2016-08-21 17:20:12.2563] | TRACE | Someone just opened our Angular page
+[2016-08-21 17:20:14.3224] | TRACE | Someone just opened our Angular page
+[2016-08-21 17:20:14.8532] | TRACE | Someone just opened our Angular page
+[2016-08-21 17:20:16.9629] | TRACE | Someone just opened our Angular page
+[2016-08-21 17:20:18.8205] | TRACE | Someone just opened our Angular page
+[2016-08-21 17:20:27.8453] | TRACE | Someone just opened our Angular page
+[2016-08-21 17:22:59.8356] | TRACE | Someone just opened our page
+[2016-08-21 17:23:04.5838] | TRACE | Someone just opened our Angular page
+[2016-08-21 17:24:36.1082] | TRACE | Someone just opened our page
+[2016-08-21 17:24:38.9959] | TRACE | Someone just opened our Angular page
+[2016-08-21 17:24:42.6382] | TRACE | Someone just opened our Angular page
+[2016-08-21 17:27:18.0552] | TRACE | Someone just opened our page
+[2016-08-21 17:27:20.5716] | TRACE | Someone just opened our Angular page
+[2016-08-21 17:28:47.1711] | TRACE | Someone just opened our Angular page
+[2016-08-21 17:29:38.7146] | TRACE | Someone just opened our Angular page
+[2016-08-21 17:29:40.2113] | TRACE | Someone just opened our Angular page
+[2016-08-21 17:29:41.2798] | TRACE | Someone just opened our Angular page
+[2016-08-21 17:29:43.9543] | TRACE | Someone just opened our Angular page
+[2016-08-21 17:29:46.0283] | TRACE | Someone just opened our Angular page
+[2016-08-21 17:29:47.4941] | TRACE | Someone just opened our Angular page
+[2016-08-21 17:29:49.9296] | TRACE | Someone just opened our Angular page
+[2016-08-21 17:29:51.8959] | TRACE | Someone just opened our Angular page
+[2016-08-21 17:30:04.7278] | TRACE | Someone just opened our Angular page
+[2016-08-21 17:30:09.3974] | TRACE | Someone just opened our Angular page
+[2016-08-21 17:30:45.7146] | DEBUG | Creating new employee: Id: 0; Name: test; Age: 24; TaxPercent: 4
+[2016-08-21 17:30:50.6533] | TRACE | Someone just opened our Angular page
+[2016-08-21 17:31:02.3033] | TRACE | Someone just opened our Angular page
+[2016-08-21 17:41:58.8232] | TRACE | Someone just opened our Angular page
+[2016-08-21 17:43:15.1954] | DEBUG | Deleting employee (via API) with ID: 4
+[2016-08-21 17:44:02.8874] | TRACE | Someone just opened our Angular page
+[2016-08-21 18:09:03.8345] | TRACE | Someone just opened our page
+[2016-08-21 18:09:08.2144] | TRACE | Someone just opened our Angular page
+[2016-08-21 18:11:17.6343] | TRACE | Someone just opened our page
+[2016-08-21 18:11:23.4910] | TRACE | Someone just opened our Angular page
+[2016-08-21 18:13:01.8064] | TRACE | Someone just opened our Angular page
+[2016-08-21 18:15:17.6164] | TRACE | Someone just opened our page
+[2016-08-21 18:17:33.9199] | TRACE | Someone just opened our page
+[2016-08-21 18:17:39.3930] | TRACE | Someone just opened our Angular page
+[2016-08-21 18:17:54.0171] | DEBUG | Creating new employee (via API): Id: 0; Name: test; Age: 32; TaxPercent: 11.76
+[2016-08-21 18:18:23.0144] | DEBUG | Deleting employee (via API) with ID: 5
+[2016-08-21 18:18:30.4584] | TRACE | Someone just opened our Angular page
+[2016-08-21 18:18:31.9030] | TRACE | Someone just opened our Angular page
+[2016-08-21 18:18:32.4843] | TRACE | Someone just opened our Angular page
+[2016-08-21 18:29:05.5539] | TRACE | Someone just opened our page
+[2016-08-21 18:29:09.9895] | TRACE | Someone just opened our Angular page
+[2016-08-21 18:29:44.8874] | DEBUG | Creating new employee (via API): Id: 0; Name: test; Age: 35; TaxPercent: 8.66
+[2016-08-21 18:29:56.4669] | DEBUG | Editing employee (via API): Id: 6; Name: test1; Age: 36; TaxPercent: 7.74
+[2016-08-21 18:29:59.0002] | TRACE | Someone just opened our Angular page
+[2016-08-21 18:30:00.2867] | TRACE | Someone just opened our Angular page
+[2016-08-21 18:30:05.9221] | DEBUG | Deleting employee (via API) with ID: 6
+[2016-08-21 18:30:11.4970] | TRACE | Someone just opened our Angular page
+[2016-08-21 18:30:58.2159] | TRACE | Someone just opened our Angular page
+[2016-08-21 18:31:19.8659] | TRACE | Someone just opened our page
+[2016-08-21 18:32:09.1265] | TRACE | Someone just opened our Angular page
+[2016-08-21 18:32:22.6443] | TRACE | Someone just opened our Angular page
+[2016-08-21 18:32:24.5007] | TRACE | Someone just opened our Angular page
+[2016-08-21 18:32:26.7308] | TRACE | Someone just opened our Angular page
+[2016-08-21 18:33:14.7241] | DEBUG | Creating new employee (via API): Id: 0; Name: test; Age: 54; TaxPercent: 3.32
+[2016-08-21 18:33:28.9502] | DEBUG | Editing employee (via API): Id: 7; Name: test1; Age: 43; TaxPercent: 3.54
+[2016-08-21 18:33:41.6555] | DEBUG | Deleting employee (via API) with ID: 7
+[2016-08-21 18:33:57.2765] | DEBUG | Creating new employee (via API): Id: 0; Name: ; Age: 0; TaxPercent: 0
+[2016-08-21 18:34:01.8411] | DEBUG | Deleting employee (via API) with ID: 8
+[2016-08-21 18:34:06.9005] | DEBUG | Creating new employee (via API): Id: 0; Name: et; Age: 0; TaxPercent: 0
+[2016-08-21 18:34:11.4126] | DEBUG | Deleting employee (via API) with ID: 9
+[2016-08-21 18:39:50.1711] | TRACE | Someone just opened our page
+[2016-08-21 18:40:02.5049] | TRACE | Someone just opened our Angular page
+[2016-08-21 18:42:18.8669] | TRACE | Someone just opened our Angular page
+[2016-08-21 18:42:24.4828] | TRACE | Someone just opened our Angular page
+[2016-08-21 18:49:54.0748] | TRACE | Someone just opened our page
+[2016-08-21 18:49:56.3838] | TRACE | Someone just opened our Angular page
+[2016-08-21 18:50:02.1192] | TRACE | Someone just opened our Angular page
+[2016-08-21 18:50:15.0574] | TRACE | Someone just opened our Angular page
+[2016-08-21 18:51:09.7767] | TRACE | Someone just opened our Angular page
+[2016-08-21 18:51:44.1926] | TRACE | Someone just opened our Angular page
+[2016-08-21 18:52:00.9556] | TRACE | Someone just opened our Angular page
+[2016-08-21 18:52:49.3563] | TRACE | Someone just opened our Angular page
+[2016-08-21 18:54:36.2552] | TRACE | Someone just opened our Angular page
+[2016-08-21 18:55:18.6794] | TRACE | Someone just opened our Angular page
+[2016-08-21 18:56:22.2419] | TRACE | Someone just opened our Angular page
+[2016-08-21 18:56:42.0353] | DEBUG | Creating new employee (via API): Id: 0; Name: test; Age: 44; TaxPercent: 3.32
+[2016-08-21 18:56:52.0331] | DEBUG | Editing employee (via API): Id: 10; Name: test1; Age: 22; TaxPercent: 3.33
+[2016-08-21 18:57:00.1909] | DEBUG | Deleting employee (via API) with ID: 10
+[2016-08-21 22:03:22.6533] | TRACE | Someone just opened our page
+[2016-08-21 22:03:26.9299] | TRACE | Someone just opened our Angular page
+[2016-08-21 22:05:07.4237] | TRACE | Someone just opened our Angular page
+[2016-08-22 07:38:01.3488] | TRACE | Someone just opened our Angular page
+[2016-08-22 07:47:09.5422] | TRACE | Someone just opened our Angular page
+[2016-08-22 07:49:21.8274] | TRACE | Someone just opened our Angular page
+[2016-08-22 07:49:57.6261] | TRACE | Someone just opened our Angular page
+[2016-08-22 07:54:03.4090] | TRACE | Someone just opened our Angular page
+[2016-08-22 07:56:35.5453] | TRACE | Someone just opened our Angular page
+[2016-08-22 08:04:12.7935] | TRACE | Someone just opened our Angular page
+[2016-08-22 08:07:20.4457] | TRACE | Someone just opened our Angular page
+[2016-08-22 11:19:42.7917] | TRACE | Someone just opened our Angular page
+[2016-08-22 11:20:08.1801] | TRACE | Someone just opened our Angular page
+[2016-08-22 18:07:43.0712] | TRACE | Someone just opened our Angular page
+[2016-08-22 18:07:52.1263] | TRACE | Someone just opened our Angular page
+[2016-08-22 18:08:19.4713] | TRACE | Someone just opened our Angular page
+[2016-08-22 18:12:47.0037] | TRACE | Someone just opened our Angular page
+[2016-08-22 18:14:12.7321] | TRACE | Someone just opened our Angular page
+[2016-08-22 18:26:18.4731] | TRACE | Someone just opened our Angular page
+[2016-08-22 18:26:24.4734] | TRACE | Someone just opened our Angular page
+[2016-08-22 18:28:45.6347] | TRACE | Someone just opened our Angular page
+[2016-08-22 18:31:01.0332] | TRACE | Someone just opened our Angular page
+[2016-08-22 18:35:30.2932] | TRACE | Someone just opened our Angular page
+[2016-08-22 21:29:46.4529] | TRACE | Someone just opened our Angular page
+[2016-08-22 21:36:30.6972] | TRACE | Someone just opened our Angular page
+[2016-08-22 21:36:37.3365] | TRACE | Someone just opened our Angular page
+[2016-08-22 21:39:31.1390] | TRACE | Someone just opened our Angular page
+[2016-08-23 07:44:52.6694] | TRACE | Someone just opened our page
+[2016-08-23 07:44:59.6293] | TRACE | Someone just opened our Angular page
+[2016-08-23 07:46:19.9288] | TRACE | Someone just opened our Angular page
+[2016-08-23 07:46:57.1690] | DEBUG | Creating new employee (via API): Id: 0; Name: test; Age: 34; TaxPercent: 34
+[2016-08-23 07:48:46.2722] | TRACE | Someone just opened our Angular page
+[2016-08-23 07:50:59.2673] | TRACE | Someone just opened our page
+[2016-08-23 07:51:20.6161] | DEBUG | Editing employee: Id: 11; Name: test1; Age: 43; TaxPercent: 34.22
+[2016-08-23 07:53:23.5730] | DEBUG | Deleting employee with ID: 11
+[2016-08-23 07:53:28.7168] | TRACE | Someone just opened our Angular page
+[2016-08-23 07:53:44.2370] | DEBUG | Creating new employee (via API): Id: 0; Name: test; Age: 32; TaxPercent: 6.55
+[2016-08-23 07:53:53.6816] | DEBUG | Editing employee (via API): Id: 12; Name: test1; Age: 31; TaxPercent: 6.22
+[2016-08-23 07:53:57.4046] | DEBUG | Deleting employee (via API) with ID: 12
+[2016-08-23 07:56:07.3220] | TRACE | Someone just opened our page
+[2016-08-23 07:56:14.4359] | TRACE | Someone just opened our Angular page
+[2016-08-23 07:56:29.1528] | DEBUG | Creating new employee (via API): Id: 0; Name: test1; Age: 34; TaxPercent: 2.22
+[2016-08-23 07:56:41.7623] | DEBUG | Editing employee (via API): Id: 13; Name: test; Age: 31; TaxPercent: 2.65
+[2016-08-23 07:56:46.4292] | DEBUG | Deleting employee (via API) with ID: 13
+[2016-08-23 08:07:58.5418] | TRACE | Someone just opened our page
+[2016-08-23 08:08:03.4962] | TRACE | Someone just opened our Angular page
+[2016-08-23 17:51:09.5988] | TRACE | Someone just opened our page
+[2016-08-23 17:51:16.3063] | TRACE | Someone just opened our Angular page
+[2016-08-23 17:55:28.5401] | TRACE | Someone just opened our page
+[2016-08-23 17:55:33.3292] | TRACE | Someone just opened our Angular page
+[2016-08-23 17:55:46.8211] | DEBUG | Creating new employee (via API): Id: 0; Name: test; Age: 54; TaxPercent: 22
+[2016-08-23 17:55:56.7541] | DEBUG | Editing employee (via API): Id: 14; Name: test1; Age: 33; TaxPercent: 2
+[2016-08-23 17:55:59.8944] | DEBUG | Deleting employee (via API) with ID: 14
+[2016-08-23 18:00:56.0816] | TRACE | Someone just opened our Angular page
+[2016-08-23 18:01:38.0304] | TRACE | Someone just opened our Angular page
+[2016-08-23 18:28:49.3928] | TRACE | Someone just opened our page
+[2016-08-23 18:29:32.0806] | TRACE | Someone just opened our page
+[2016-08-23 18:29:43.0565] | TRACE | Someone just opened our page
+[2016-08-23 18:29:44.4889] | TRACE | Someone just opened our Angular page
+[2016-08-23 18:29:46.8566] | TRACE | Someone just opened our page
+[2016-08-23 18:30:15.9413] | TRACE | Someone just opened our page
+[2016-08-23 18:31:00.3057] | TRACE | Someone just opened our page
+[2016-08-23 18:31:26.9056] | TRACE | Someone just opened our page
+[2016-08-23 18:31:43.2445] | TRACE | Someone just opened our page
+[2016-08-23 18:32:24.6442] | TRACE | Someone just opened our page
+[2016-08-23 18:33:00.0712] | TRACE | Someone just opened our page
+[2016-08-23 21:39:40.9541] | TRACE | Someone just opened our Angular page
+[2016-08-24 13:54:41.4913] | TRACE | Someone just opened our Angular page
+[2016-08-24 13:54:47.0200] | TRACE | Someone just opened our page
+[2016-08-24 13:55:15.9445] | TRACE | Someone just opened our Angular page
+[2016-08-24 13:55:18.4737] | TRACE | Someone just opened our Angular page
+[2016-08-24 13:55:53.9665] | DEBUG | Creating new employee (via API): Id: 0; Name: test; Age: 18; TaxPercent: 2.67
+[2016-08-24 13:56:08.9381] | DEBUG | Editing employee (via API): Id: 15; Name: test1; Age: 19; TaxPercent: 2.67
+[2016-08-24 13:56:15.7110] | DEBUG | Deleting employee (via API) with ID: 15
+[2016-10-12 20:18:15.7827] | TRACE | Someone just opened our page
+[2016-10-12 20:18:28.2874] | TRACE | Someone just opened our page
+[2016-10-12 20:18:29.6410] | TRACE | Someone just opened our page
+[2016-10-12 20:18:47.5256] | TRACE | Someone just opened our Angular page
+[2016-10-12 20:19:08.1913] | TRACE | Someone just opened our page

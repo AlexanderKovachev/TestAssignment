@@ -1,0 +1,88 @@
+﻿@{
+    ViewBag.Title = "Angular Employees";
+}
+
+@section scripts{
+    <script src="~/Scripts/angular.js"></script>
+    <script src="~/Scripts/angular-messages.js"></script>
+    <script src="~/Scripts/EmployeeClient.js"></script>
+}
+
+<div ng-app="AssignmentApp" ng-controller="EmployeeController as empCtrl">
+    <div class="jumbotron">
+        <p class="lead">{{empCtrl.message}}</p>
+    </div>
+
+    <p>
+        <a href="" ng-click="empCtrl.createEmployee()">Create New</a>
+    </p>
+
+    <table class="table">
+        <tr>
+            <th>Employee Name</th>
+            <th>Current Age</th>
+            <th>Witholding Tax (%)</th>
+            <th></th>
+        </tr>
+        <tr ng-repeat="e in empCtrl.employees">
+            <td>{{e.Name}}</td>
+            <td>{{e.Age}}</td>
+            <td>{{e.TaxPercent}}</td>
+            <td>
+                <a href="" ng-click="empCtrl.editEmployee(e)">Edit</a> |
+                <a href="" ng-click="empCtrl.deleteEmployee(e)">Delete</a>
+            </td>
+        </tr>
+    </table>
+
+    <form name="saveEmployeeForm" ng-submit="empCtrl.saveEmployee()" style="display: {{empCtrl.saveFormDisplay}}" novalidate>
+        <div class="form-horizontal">
+            <hr />
+            <h4>{{empCtrl.saveFormTitle}}</h4>
+            <hr />
+
+            <p class="text-danger">{{empCtrl.status}}</p>
+
+            <div class="form-group" ng-class="{ 'has-error': saveEmployeeForm.Name.$touched && saveEmployeeForm.Name.$invalid }">
+                <label for="Name" class="control-label col-md-2">Eployee Name *</label>
+                <div class="col-md-10">
+                    <input type="text" name="Name" class="form-control" ng-model="empCtrl.editEmp.Name" required ng-maxlength="100" />
+                    <div class="help-block" ng-messages="saveEmployeeForm.Name.$error" ng-show="saveEmployeeForm.Name.$touched">
+                        <p ng-message="required">Name is required.</p>
+                        <p ng-message="maxlength">Name must be no more than 100 characters long.</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="form-group" ng-class="{ 'has-error': saveEmployeeForm.Age.$touched && saveEmployeeForm.Age.$invalid }">
+                <label for="Age" class="control-label col-md-2">Current Age *</label>
+                <div class="col-md-10">
+                    <input type="number" name="Age" class="form-control" ng-model="empCtrl.editEmp.Age" required min="18" max="67" />
+                    <div class="help-block" ng-messages="saveEmployeeForm.Age.$error" ng-show="saveEmployeeForm.Age.$touched">
+                        <p ng-message="required">Age is required.</p>
+                        <p ng-message="min max">Invalid age. Please provide value between 18 and 67.</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="form-group" ng-class="{ 'has-error': saveEmployeeForm.TaxPercent.$touched && saveEmployeeForm.TaxPercent.$invalid }">
+                <label for="TaxPercent" class="control-label col-md-2">Witholding Tax (%) *</label>
+                <div class="col-md-10">
+                    <input type="number" name="TaxPercent" class="form-control" ng-model="empCtrl.editEmp.TaxPercent" required min="0" max="100" />
+                    <div class="help-block" ng-messages="saveEmployeeForm.TaxPercent.$error" ng-show="saveEmployeeForm.TaxPercent.$touched">
+                        <p ng-message="required">Tax (%) is required.</p>
+                        <p ng-message="min max">Invalid Tax (%). Please provide value between 0 and 100.</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="form-group">
+                <div class="col-md-offset-2 col-md-10">
+                    <input type="submit" value="Save" class="btn btn-default" ng-disabled="saveEmployeeForm.$invalid" />
+                    <input type="button" value="Clear" class="btn btn-default" ng-click="empCtrl.clear()" />
+                    <input type="button" value="Cancel" class="btn btn-default" ng-click="empCtrl.cancel()" />
+                </div>
+            </div>
+        </div>
+    </form>
+</div>
